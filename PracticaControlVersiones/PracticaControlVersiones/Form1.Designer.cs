@@ -74,11 +74,11 @@ namespace PracticaControlVersiones
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(16, 78);
+            this.label2.Location = new System.Drawing.Point(11, 78);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(52, 15);
+            this.label2.Size = new System.Drawing.Size(37, 15);
             this.label2.TabIndex = 4;
-            this.label2.Text = "Teléfono";
+            this.label2.Text = "Móvil";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3

@@ -1,0 +1,15 @@
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.exe
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.deps.json
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.runtimeconfig.json
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.runtimeconfig.dev.json
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.dll
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\bin\Debug\netcoreapp3.1\PracticaControlVersiones.pdb
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.csprojAssemblyReference.cache
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.Form1.resources
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.csproj.GenerateResource.cache
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.AssemblyInfoInputs.cache
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.AssemblyInfo.cs
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.dll
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.pdb
+C:\Users\Joshua\Source\Repos\JHR-1oDAM-O\practicaUD10-\PracticaControlVersiones\PracticaControlVersiones\obj\Debug\netcoreapp3.1\PracticaControlVersiones.genruntimeconfig.cache
