@@ -36,7 +36,7 @@ namespace PracticaControlVersiones
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.tListaSocios = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // tNombre
@@ -74,7 +74,7 @@ namespace PracticaControlVersiones
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(16, 78);
+            this.label2.Location = new System.Drawing.Point(11, 78);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 4;
@@ -98,22 +98,23 @@ namespace PracticaControlVersiones
             this.button1.TabIndex = 6;
             this.button1.Text = "Guardar";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox1
+            // tListaSocios
             // 
-            this.textBox1.Location = new System.Drawing.Point(17, 129);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(344, 121);
-            this.textBox1.TabIndex = 7;
+            this.tListaSocios.Location = new System.Drawing.Point(17, 129);
+            this.tListaSocios.Multiline = true;
+            this.tListaSocios.Name = "tListaSocios";
+            this.tListaSocios.ReadOnly = true;
+            this.tListaSocios.Size = new System.Drawing.Size(344, 121);
+            this.tListaSocios.TabIndex = 7;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(373, 262);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.tListaSocios);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -137,7 +138,7 @@ namespace PracticaControlVersiones
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox tListaSocios;
     }
 }
 
