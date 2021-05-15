@@ -38,6 +38,7 @@ namespace PracticaControlVersiones
                 tNombre.Text + " y apellidos " + tApellidos.Text + 
                 ", con teléfono " + tTelefono.Text + 
                 " ha sido registado correctamente";
+
         }
     }
 }
