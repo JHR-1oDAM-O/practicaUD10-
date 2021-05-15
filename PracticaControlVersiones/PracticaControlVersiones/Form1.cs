@@ -34,6 +34,10 @@ namespace PracticaControlVersiones
 
         private void button1_Click(object sender, EventArgs e)
         {
+            tListaSocios.Text = "El socio con nombre " + 
+                tNombre.Text + " y apellidos " + tApellidos.Text + 
+                ", con teléfono " + tTelefono.Text + 
+                " ha sido registado correctamente";
 
         }
     }
